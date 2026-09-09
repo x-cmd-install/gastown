@@ -7,7 +7,7 @@ Gas Town - multi-agent workspace manager
 - **Latest release**: `v1.2.1` (2026-06-06)
 - **Last commit**: 2026-07-23
 - **License**: MIT
-- **Stars**: 17975 · **Forks**: 1659 · **Open issues**: 1258 · **Contributors**: 330
+- **Stars**: 17986 · **Forks**: 1660 · **Open issues**: 1259 · **Contributors**: 330
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/gastown> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:38:19Z._
+_Last regenerated: 2026-09-09T18:44:06Z._
