@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.1"
   latestRelease: "v1.2.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:59:22Z
+  collectedAt: 2026-09-10T22:48:13Z
 timeline:
   created: 2025-12-16
   lastCommit: 2026-07-23
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-06-06
   lastPrerelease: 
 popularity:
-  star: 18003
+  star: 18004
   watcher: 103
-  fork: 1661
+  fork: 1662
   release: 14
   contributor: 330
-  pullRequest: 3475
+  pullRequest: 3476
   issue: 1259
 language:
   Go: 14602075
@@ -87,13 +87,13 @@ recent:
 total:
   release: 14
   mergedPR: 1632
-  openPR: 103
+  openPR: 104
   closedIssue: 905
   openIssue: 354
   commit: 7770
 ---
 path: /home/runner/.x-repo/github.com/steveyegge/gastown
-collectedAt: 2026-09-10T20:59:41Z
+collectedAt: 2026-09-10T22:48:30Z
 loc:
   Go:
     code: 369594
