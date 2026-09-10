@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13869178,
       "digest": "sha256:cc81f0a55c1f30986759ec8a924e232316c1532900d61af241965ebc0127eb05",
-      "download_count": 1801,
+      "download_count": 1818,
       "created_at": "2026-06-06T17:17:50Z",
       "updated_at": "2026-06-06T17:17:51Z",
       "browser_download_url": "https://github.com/gastownhall/gastown/releases/download/v1.2.1/gastown_1.2.1_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 14039707,
       "digest": "sha256:da0b24860f227f31405c67540af539fee5d06b9fda93b674b7b87ff2a0bcd4d6",
-      "download_count": 185,
+      "download_count": 186,
       "created_at": "2026-06-06T17:17:51Z",
       "updated_at": "2026-06-06T17:17:52Z",
       "browser_download_url": "https://github.com/gastownhall/gastown/releases/download/v1.2.1/gastown_1.2.1_windows_amd64.zip"
