@@ -12,6 +12,18 @@ Gas Town - multi-agent workspace manager
 x install gastown
 ```
 
+## Code insight
+
+Total: **425,715** lines of code across **1353** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 369,594 | 48,744 | 56,317 | 1229 |
+| Toml | 21,955 | 127 | 2,283 | 57 |
+| Json | 17,042 | 0 | 19 | 25 |
+| Sh | 5,157 | 942 | 1,027 | 36 |
+| JavaScript | 3,592 | 125 | 121 | 6 |
+
 ## Source
 
 - **Upstream**: <https://github.com/steveyegge/gastown>
@@ -22,6 +34,25 @@ x install gastown
 - **Latest**: `v1.2.1` (2026-06-06)
 - **Last commit**: 2026-07-23
 - **Assets in release**: 8
+
+## Popularity
+
+- **Stars**: 18,003 · **Forks**: 1,661 · **Open issues**: 1,259 · **Contributors**: 330
+
+## Totals (cumulative)
+
+- **Releases**: 14 · **Merged PRs**: 1632 · **Open PRs**: 103 · **Closed issues**: 905 · **Open issues**: 354 · **Commits**: 7770
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -36,33 +67,13 @@ x install gastown
 | [gastown_1.2.1_linux_arm64.tar.gz](https://github.com/steveyegge/gastown/releases/download/v1.2.1/gastown_1.2.1_linux_arm64.tar.gz) | 12.0 MiB | `native/linux/arm64` |
 | [gastown_1.2.1_windows_amd64.zip](https://github.com/steveyegge/gastown/releases/download/v1.2.1/gastown_1.2.1_windows_amd64.zip) | 13.4 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 18,001 · **Forks**: 1,660 · **Open issues**: 1,259 · **Contributors**: 330
+Reported by **4** distros on [repology.org](https://repology.org/project/gastown). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 14 · **Merged PRs**: 1632 · **Open PRs**: 94 · **Closed issues**: 905 · **Open issues**: 354 · **Commits**: 7770
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 14 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **425,715** lines of code across **1353** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 369,594 | 48,744 | 56,317 | 1229 |
-| Toml | 21,955 | 127 | 2,283 | 57 |
-| Json | 17,042 | 0 | 19 | 25 |
-| Sh | 5,157 | 942 | 1,027 | 36 |
-| JavaScript | 3,592 | 125 | 121 | 6 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.1.0` | ✅ latest |
 
 ## Improve this data
 
@@ -73,4 +84,4 @@ Install metadata for gastown lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:26:40Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:59:59Z._
