@@ -4,7 +4,7 @@
 
 Gas Town - multi-agent workspace manager
 
-![gastown](https://repo.x-cmd.io/gastown.svg)
+![gastown](https://repo.x-cmd.io/gastown.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,23 @@ x install gastown
 - **最新版本**: `v1.2.1` (2026-06-06)
 - **最近提交**: 2026-07-23
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-06-06T17:17:53Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [gastown-v1.2.1.spdx.json](https://github.com/steveyegge/gastown/releases/download/v1.2.1/gastown-v1.2.1.spdx.json) | 301.6 KiB | `other` |
+| [gastown_1.2.1_checksums.txt](https://github.com/steveyegge/gastown/releases/download/v1.2.1/gastown_1.2.1_checksums.txt) | 597 B | `other` |
+| [gastown_1.2.1_darwin_amd64.tar.gz](https://github.com/steveyegge/gastown/releases/download/v1.2.1/gastown_1.2.1_darwin_amd64.tar.gz) | 13.4 MiB | `native/darwin/x64` |
+| [gastown_1.2.1_darwin_arm64.tar.gz](https://github.com/steveyegge/gastown/releases/download/v1.2.1/gastown_1.2.1_darwin_arm64.tar.gz) | 12.5 MiB | `native/darwin/arm64` |
+| [gastown_1.2.1_freebsd_amd64.tar.gz](https://github.com/steveyegge/gastown/releases/download/v1.2.1/gastown_1.2.1_freebsd_amd64.tar.gz) | 13.1 MiB | `native/linux/x64` |
+| [gastown_1.2.1_linux_amd64.tar.gz](https://github.com/steveyegge/gastown/releases/download/v1.2.1/gastown_1.2.1_linux_amd64.tar.gz) | 13.2 MiB | `native/linux/x64` |
+| [gastown_1.2.1_linux_arm64.tar.gz](https://github.com/steveyegge/gastown/releases/download/v1.2.1/gastown_1.2.1_linux_arm64.tar.gz) | 12.0 MiB | `native/linux/arm64` |
+| [gastown_1.2.1_windows_amd64.zip](https://github.com/steveyegge/gastown/releases/download/v1.2.1/gastown_1.2.1_windows_amd64.zip) | 13.4 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 17,991 · **Fork**: 1,660 · **开放 issue**: 1,259 · **贡献者**: 330
+- **Star**: 18,001 · **Fork**: 1,660 · **开放 issue**: 1,259 · **贡献者**: 330
 
 ## 累计统计
 
@@ -61,4 +73,4 @@ gastown 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:35:34Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:26:41Z._
