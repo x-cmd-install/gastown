@@ -37,11 +37,11 @@ Total: **425,715** lines of code across **1353** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 18,007 · **Forks**: 1,662 · **Open issues**: 1,259 · **Contributors**: 330
+- **Stars**: 18,014 · **Forks**: 1,664 · **Open issues**: 1,261 · **Contributors**: 330
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 1632 · **Open PRs**: 105 · **Closed issues**: 905 · **Open issues**: 354 · **Commits**: 7770
+- **Releases**: 14 · **Merged PRs**: 1632 · **Open PRs**: 105 · **Closed issues**: 905 · **Open issues**: 356 · **Commits**: 7770
 
 ## Recent activity
 
@@ -84,4 +84,4 @@ Install metadata for gastown lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:40:59Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:32:18Z._
