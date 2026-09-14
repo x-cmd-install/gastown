@@ -37,22 +37,22 @@ Total: **425,715** lines of code across **1353** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 18,018 · **Forks**: 1,665 · **Open issues**: 1,261 · **Contributors**: 330
+- **Stars**: 18,049 · **Forks**: 1,667 · **Open issues**: 1,263 · **Contributors**: 330
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 1632 · **Open PRs**: 105 · **Closed issues**: 905 · **Open issues**: 356 · **Commits**: 7770
+- **Releases**: 14 · **Merged PRs**: 1632 · **Open PRs**: 106 · **Closed issues**: 905 · **Open issues**: 358 · **Commits**: 7770
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-16 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-17 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-22 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -67,14 +67,6 @@ Total: **425,715** lines of code across **1353** files in the top 5 languages.
 | [gastown_1.2.1_linux_arm64.tar.gz](https://github.com/steveyegge/gastown/releases/download/v1.2.1/gastown_1.2.1_linux_arm64.tar.gz) | 12.0 MiB | `native/linux/arm64` |
 | [gastown_1.2.1_windows_amd64.zip](https://github.com/steveyegge/gastown/releases/download/v1.2.1/gastown_1.2.1_windows_amd64.zip) | 13.4 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/gastown). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.1.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for gastown lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gastown` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +76,4 @@ Install metadata for gastown lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:30:05Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:53:16Z._
