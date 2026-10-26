@@ -14,11 +14,11 @@ x install gastown
 
 ## Code insight
 
-Total: **421,830** lines of code across **1354** files in the top 5 languages.
+Total: **421,833** lines of code across **1354** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 369,626 | 48,769 | 56,330 | 1230 |
+| Go | 369,629 | 48,769 | 56,330 | 1230 |
 | Toml | 21,955 | 127 | 2,283 | 57 |
 | Json | 13,123 | 0 | 19 | 25 |
 | Sh | 5,159 | 942 | 1,027 | 36 |
@@ -32,27 +32,27 @@ Total: **421,830** lines of code across **1354** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.2.1` (2026-06-06)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-25
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 18,525 · **Forks**: 1,687 · **Open issues**: 1,258 · **Contributors**: 328
+- **Stars**: 18,541 · **Forks**: 1,688 · **Open issues**: 1,259 · **Contributors**: 328
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 1612 · **Open PRs**: 133 · **Closed issues**: 881 · **Open issues**: 377 · **Commits**: 7775
+- **Releases**: 14 · **Merged PRs**: 1612 · **Open PRs**: 134 · **Closed issues**: 881 · **Open issues**: 378 · **Commits**: 7777
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-28 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-30 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-04 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-29 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-31 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-05 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gastown lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:37:26Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:37:05Z._
