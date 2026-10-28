@@ -1,16 +1,4 @@
 - repo: aur
-  srcname: gastown
-  binname: gastown
-  visiblename: gastown
-  version: 0.5.0
-  origversion: 0.5.0-1
-  status: outdated
-  summary: Multi-agent orchestration system for Claude Code with persistent work tracking
-  maintainers:
-    - dbirks@aur
-  licenses:
-    - MIT
-- repo: aur
   srcname: gastown-git
   binname: gastown-git
   visiblename: gastown-git
@@ -27,7 +15,7 @@
   visiblename: gastown
   version: 1.1.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Multi-agent workspace manager
 - repo: homebrew
   srcname: gastown
@@ -36,3 +24,15 @@
   origversion: null
   status: rolling
   summary: Multi-agent workspace manager
+- repo: aur
+  srcname: gastown
+  binname: gastown
+  visiblename: gastown
+  version: 1.2.1
+  origversion: 1.2.1-1
+  status: newest
+  summary: Multi-agent orchestration system for Claude Code with persistent work tracking
+  maintainers:
+    - dbirks@aur
+  licenses:
+    - MIT
